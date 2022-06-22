@@ -1,0 +1,7 @@
+version: '3'
+services:
+  buildpack-fastapi:
+    image: buildpack-fastapi
+    restart: always
+    ports:
+      - 8000:8000
