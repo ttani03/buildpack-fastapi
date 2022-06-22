@@ -4,6 +4,7 @@
 
 - [Docker のインストール](https://docs.docker.com/get-docker/)
 - [pack コマンドのインストール](https://buildpacks.io/docs/tools/pack/)
+- [tilt コマンドのインストール](https://docs.tilt.dev/)
 
 ## 使い方
 
